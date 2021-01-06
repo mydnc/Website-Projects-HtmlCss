@@ -2,7 +2,7 @@
 
 List of projects: 
 
--[Hotel Website](https://github.com/mydnc/Website-Projects-HtmlCss/Hotel-Website)
--EdgeLedger Website (Will be added soon)
--Presentation Website (Will be added soon)
--Knowledge Timeline (Will be added soon)
+- [Hotel Website](https://github.com/mydnc/Website-Projects-HtmlCss/Hotel-Website)
+- EdgeLedger Website (Will be added soon)
+- Presentation Website (Will be added soon)
+- Knowledge Timeline (Will be added soon)
